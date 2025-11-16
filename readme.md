@@ -1,26 +1,8 @@
-# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS# KYS KYS KYS
-KYS KYS KYS
-
-## tECHNOLOGIA KYS
-- ### jebany pedofil
-- ### zgwałcił małe dzieci
+# Zoo online
+projekt został utworzony na github pages
+[Link do strony](https://pefkus.github.io/github_zajecia/)
+## Technologia UwU
+- ### Upsi Dejzi
+- ### Leamo
 - ### UwU
 
